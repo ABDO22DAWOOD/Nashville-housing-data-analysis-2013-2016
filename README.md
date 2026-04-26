@@ -76,7 +76,7 @@ Starting from raw, messy data, I applied **Power Query cleaning**, built a **Sta
 - **Power Query** (data cleaning).  
 - **Power BI** (dashboard design).  
 - **Data Modeling** (Star Schema).
-- 
+  
 ##  Project Structure
 Nashville-Housing-Sales/
 │
