@@ -1,5 +1,5 @@
 # Nashville-housing-data-analysis-2013-2016
-# 🏠 Nashville Housing Sales Dashboard (2013–2016)
+
 
 ![OVERVIEW](NASHVILLE_IMAGES/OVERVIEW.PNG)
 
