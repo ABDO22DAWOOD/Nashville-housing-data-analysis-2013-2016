@@ -1,7 +1,7 @@
 # Nashville-housing-data-analysis-2013-2016
 # 🏠 Nashville Housing Sales Dashboard (2013–2016)
 
-![Dashboard Overview](images/overview.png)
+![Overview](NASHVILLE_IMAGES/overview.PNG)
 
 ##  Overview
 A complete Power BI project analyzing Nashville housing sales between 2013–2016 (~57K transactions).  
