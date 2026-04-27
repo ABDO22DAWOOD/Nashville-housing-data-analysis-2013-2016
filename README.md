@@ -1,13 +1,10 @@
 # Nashville-housing-data-analysis-2013-2016
-
-
+A complete Power BI project analyzing Nashville housing sales between 2013–2016 (~57K transactions). 
 ![OVERVIEW](NASHVILLE_IMAGES/OVERVIEW.PNG)
 
 ##  Overview
 A complete Power BI project analyzing Nashville housing sales between 2013–2016 (~57K transactions).  
 Starting from raw, messy data, I applied **Power Query cleaning**, built a **Star Schema data model**, and designed an interactive dashboard to uncover real estate trends.
-
----
 
 ##  Data Preparation
 - Removed duplicates (~5%).  
